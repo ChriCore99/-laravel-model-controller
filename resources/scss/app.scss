@@ -1,1 +1,21 @@
+// importo le direttive di bootstrap per poterlo usare 
 @import '~bootstrap/scss/bootstrap';
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+ul, ol, menu {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}

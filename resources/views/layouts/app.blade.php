@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Styles -->
     @vite('resources/js/app.js')
+    <!-- importo file "app.scss" -->
+    @vite('resources/js/app.js')
     <title>Document</title>
 </head>
 <body>
